@@ -1,0 +1,3 @@
+noll             0.0
+lite            40.0
+fler            72.0
